@@ -6,59 +6,59 @@ build_property.ProjectTypeGuids =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CursoCrud
 build_property.RootNamespace = CursoCrud
-build_property.ProjectDir = c:\Users\JDARD\OneDrive\Escritorio\CursoCrud\
+build_property.ProjectDir = C:\Users\JDARD\OneDrive\Escritorio\CursoCrud\
 build_property.RazorLangVersion = 5.0
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\JDARD\OneDrive\Escritorio\CursoCrud
+build_property.MSBuildProjectDirectory = C:\Users\JDARD\OneDrive\Escritorio\CursoCrud
 build_property._RazorSourceGeneratorDebug = 
 build_property._RazorSourceGeneratorLog = 
 
 [c:/Users/JDARD/OneDrive/Escritorio/CursoCrud/App.razor]
 build_metadata.AdditionalFiles.TargetPath = App.razor
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\App.razor.g.cs
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\App.razor.g.cs
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/JDARD/OneDrive/Escritorio/CursoCrud/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = Pages\Index.razor
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\Pages\Index.razor.g.cs
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\Pages\Index.razor.g.cs
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/JDARD/OneDrive/Escritorio/CursoCrud/Pages/ListaClientes.razor]
 build_metadata.AdditionalFiles.TargetPath = Pages\ListaClientes.razor
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\Pages\ListaClientes.razor.g.cs
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\Pages\ListaClientes.razor.g.cs
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/JDARD/OneDrive/Escritorio/CursoCrud/Pages/NuevoCliente.razor]
 build_metadata.AdditionalFiles.TargetPath = Pages\NuevoCliente.razor
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\Pages\NuevoCliente.razor.g.cs
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\Pages\NuevoCliente.razor.g.cs
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/JDARD/OneDrive/Escritorio/CursoCrud/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = Shared\SurveyPrompt.razor
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\Shared\SurveyPrompt.razor.g.cs
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\Shared\SurveyPrompt.razor.g.cs
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/JDARD/OneDrive/Escritorio/CursoCrud/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = _Imports.razor
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\_Imports.razor.g.cs
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\_Imports.razor.g.cs
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/JDARD/OneDrive/Escritorio/CursoCrud/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Shared\MainLayout.razor
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\Shared\MainLayout.razor.g.cs
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\Shared\MainLayout.razor.g.cs
 build_metadata.AdditionalFiles.CssScope = b-soedtukx2s
 
 [c:/Users/JDARD/OneDrive/Escritorio/CursoCrud/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Shared\NavMenu.razor
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\Shared\NavMenu.razor.g.cs
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\Shared\NavMenu.razor.g.cs
 build_metadata.AdditionalFiles.CssScope = b-pysf297qzz
 
 [c:/Users/JDARD/OneDrive/Escritorio/CursoCrud/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Pages\Error.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\Pages\Error.cshtml.g.cs
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\Pages\Error.cshtml.g.cs
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/JDARD/OneDrive/Escritorio/CursoCrud/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Pages\_Host.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\Pages\_Host.cshtml.g.cs
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\JDARD\OneDrive\Escritorio\CursoCrud\obj\Debug\net6.0\Razor\Pages\_Host.cshtml.g.cs
 build_metadata.AdditionalFiles.CssScope =
