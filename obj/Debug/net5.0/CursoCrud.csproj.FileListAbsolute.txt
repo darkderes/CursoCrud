@@ -1,0 +1,180 @@
+C:\Users\Jorge Darderes\CursoCrud\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jorge Darderes\CursoCrud\bin\Debug\net5.0\appsettings.json
+C:\Users\Jorge Darderes\CursoCrud\bin\Debug\net5.0\CursoCrud.StaticWebAssets.xml
+C:\Users\Jorge Darderes\CursoCrud\bin\Debug\net5.0\CursoCrud.exe
+C:\Users\Jorge Darderes\CursoCrud\bin\Debug\net5.0\CursoCrud.deps.json
+C:\Users\Jorge Darderes\CursoCrud\bin\Debug\net5.0\CursoCrud.runtimeconfig.json
+C:\Users\Jorge Darderes\CursoCrud\bin\Debug\net5.0\CursoCrud.runtimeconfig.dev.json
+C:\Users\Jorge Darderes\CursoCrud\bin\Debug\net5.0\CursoCrud.dll
+C:\Users\Jorge Darderes\CursoCrud\bin\Debug\net5.0\ref\CursoCrud.dll
+C:\Users\Jorge Darderes\CursoCrud\bin\Debug\net5.0\CursoCrud.pdb
+C:\Users\Jorge Darderes\CursoCrud\bin\Debug\net5.0\CursoCrud.Views.dll
+C:\Users\Jorge Darderes\CursoCrud\bin\Debug\net5.0\CursoCrud.Views.pdb
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.csprojAssemblyReference.cache
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.AssemblyInfoInputs.cache
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.AssemblyInfo.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorComponent.input.cache
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorComponent.output.cache
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\RazorDeclaration\CursoCrud.dll
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.TagHelpers.input.cache
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.TagHelpers.output.cache
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorCoreGenerate.cache
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorAssemblyInfo.cache
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorAssemblyInfo.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\staticwebassets\CursoCrud.StaticWebAssets.Manifest.cache
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\staticwebassets\CursoCrud.StaticWebAssets.xml
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\scopedcss\bundle\CursoCrud.styles.css
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\scopedcss\projectbundle\CursoCrud.bundle.scp.css
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorTargetAssemblyInfo.cache
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorTargetAssemblyInfo.cs
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.Views.pdb
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.dll
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\ref\CursoCrud.dll
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.pdb
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.genruntimeconfig.cache
+C:\Users\Jorge Darderes\CursoCrud\obj\Debug\net5.0\CursoCrud.csproj.CopyComplete
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.csproj.AssemblyReference.cache
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.AssemblyInfoInputs.cache
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.AssemblyInfo.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.csproj.CoreCompileInputs.cache
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorComponent.input.cache
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\RazorDeclaration\Pages\NuevoCliente.razor.g.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorComponent.output.cache
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.dll
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\ref\CursoCrud.dll
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.pdb
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\RazorDeclaration\CursoCrud.dll
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.TagHelpers.input.cache
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.TagHelpers.output.cache
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorCoreGenerate.cache
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\Razor\Pages\NuevoCliente.razor.g.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorAssemblyInfo.cache
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorAssemblyInfo.cs
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\appsettings.json
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\CursoCrud.StaticWebAssets.xml
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\CursoCrud.exe
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\CursoCrud.deps.json
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\CursoCrud.runtimeconfig.json
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\CursoCrud.runtimeconfig.dev.json
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\CursoCrud.dll
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\ref\CursoCrud.dll
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\CursoCrud.pdb
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\CursoCrud.Views.dll
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\CursoCrud.Views.pdb
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JDARD\OneDrive\CursoCrud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\staticwebassets\CursoCrud.StaticWebAssets.Manifest.cache
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\staticwebassets\CursoCrud.StaticWebAssets.xml
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\scopedcss\bundle\CursoCrud.styles.css
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\scopedcss\projectbundle\CursoCrud.bundle.scp.css
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorTargetAssemblyInfo.cache
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorTargetAssemblyInfo.cs
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.Views.pdb
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.csproj.CopyComplete
+C:\Users\JDARD\OneDrive\CursoCrud\obj\Debug\net5.0\CursoCrud.genruntimeconfig.cache
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.csprojAssemblyReference.cache
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.AssemblyInfoInputs.cache
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.AssemblyInfo.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorComponent.input.cache
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\RazorDeclaration\Pages\ListaClientes.razor.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\RazorDeclaration\Pages\NuevoCliente.razor.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorComponent.output.cache
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.dll
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\ref\CursoCrud.dll
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.pdb
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\RazorDeclaration\CursoCrud.dll
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.TagHelpers.input.cache
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.TagHelpers.output.cache
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorCoreGenerate.cache
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\Razor\Pages\ListaClientes.razor.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\Razor\Pages\NuevoCliente.razor.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorAssemblyInfo.cache
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorAssemblyInfo.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\appsettings.json
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\CursoCrud.StaticWebAssets.xml
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\CursoCrud.exe
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\CursoCrud.deps.json
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\CursoCrud.runtimeconfig.json
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\CursoCrud.runtimeconfig.dev.json
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\CursoCrud.dll
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\ref\CursoCrud.dll
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\CursoCrud.pdb
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\CursoCrud.Views.dll
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\CursoCrud.Views.pdb
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jorge Darderes\Desktop\CursoCrud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\staticwebassets\CursoCrud.StaticWebAssets.Manifest.cache
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\staticwebassets\CursoCrud.StaticWebAssets.xml
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\scopedcss\bundle\CursoCrud.styles.css
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\scopedcss\projectbundle\CursoCrud.bundle.scp.css
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorTargetAssemblyInfo.cache
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.RazorTargetAssemblyInfo.cs
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.Views.pdb
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.csproj.CopyComplete
+C:\Users\Jorge Darderes\Desktop\CursoCrud\obj\Debug\net5.0\CursoCrud.genruntimeconfig.cache

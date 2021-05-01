@@ -1,0 +1,84 @@
+@page "/ListaClientes"
+@using Data
+@using Interfaz
+@inject IClientesServices ClienteServicio
+@inject IJSRuntime JsRuntime;
+
+<h1>Listas Clientes</h1>
+
+@if(clientes == null)
+{
+    <p><em> Cargando....</em></p>
+}
+else
+{
+
+    <div class= "input-group">
+    
+        <input id="busqueda" @bind="cadenaBusqueda" type ="text" placeholder="Nombre/Id" class="form-control">
+        <span class="input-group-btn">
+                <input type = "submit" class="btn btn-default btn-info"  value = "Buscar"  @onclick="(() => Buscar())"  />
+        </span>
+    </div>
+
+
+
+    <table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+        </tr>
+    </thead> 
+    <tbody>
+        @foreach (CursoCrud.Data.Clientes c in clientes)
+        {
+        <tr>
+            <td>@c.Id</td> 
+            <td>@c.Cliente</td> 
+            <td>
+                <a href="/NuevoCliente/@c.Id" class="btn btn-primary m-1">Editar</a> 
+            </td>
+                  <td>
+                     <input type = "submit" class="btn btn-danger" value="Borrar" @onclick="(() => Borrar(c.Id))" /> 
+                 </td>
+        </tr> 
+        }
+    </tbody> 
+    </table>  
+           
+}
+@code
+{
+    private IEnumerable<CursoCrud.Data.Clientes> clientes;
+
+        private string cadenaBusqueda {get;set;}
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            clientes = await ClienteServicio.DameTodosLosClientes();
+        }
+        catch
+        {
+            throw;
+        }
+    }
+    protected async Task Borrar(int id)
+    {
+        bool confirmar = await JsRuntime.InvokeAsync<bool>("confirm","Estas seguro ?");
+        if(confirmar) 
+        {
+            await ClienteServicio.BorrarClientes(id);
+            clientes = await ClienteServicio.DameTodosLosClientes();
+        }   
+    }
+    protected async Task Buscar()
+    {
+        clientes = await ClienteServicio.DameTodosLosClientes(cadenaBusqueda);
+    }
+
+
+
+}

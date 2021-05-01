@@ -1,0 +1,47 @@
+@page "/NuevoCliente"
+@page "/NuevoCliente/{id:int}"
+@using Data
+@using Interfaz
+@inject IClientesServices ClienteServicio
+@inject NavigationManager navigationManager;
+
+<h1>Cliente Nuevo</h1>
+
+<EditForm Model="@cliente" OnValidSubmit = "HandleValidSubmit">
+    <DataAnnotationsValidator />
+
+<div class="row content">
+    <div class="col-md-1"><label for="Nombre">Nombre</label></div>   
+    <div class="col-md-2"><InputText id="name" @bind-Value="cliente.Cliente" /></div>   
+    <div class="col-md-4"><ValidationMessage For="@(() => cliente.Cliente)" /></div>   
+ </div>
+
+ <div class="row content">
+    <div class="col-md-1"> <input type="submit" class="btn btn-primary" value="Guardar" @onclick="Guardar" /> </div>   
+ </div>    
+</EditForm>
+@code
+{
+    [Parameter]
+    public int id {get;set;}
+    CursoCrud.Data.Clientes cliente = new  CursoCrud.Data.Clientes();
+    
+    protected async Task Guardar()
+    {       
+        await ClienteServicio.GuardarCliente(cliente);
+        navigationManager.NavigateTo("/ListaClientes");
+    }
+    private void HandleValidSubmit()
+    {
+      // console.WriteLine("OnValidSubmit");
+    }
+    protected override async Task OnInitializedAsync()
+    {
+        if(id > 0)
+        {
+            cliente = await ClienteServicio.DameDatosClientes(id);
+        }
+    }
+
+
+}
