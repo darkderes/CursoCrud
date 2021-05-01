@@ -1,5 +1,7 @@
 {
     "staticWebApps.appSubpath": "Client",
     "staticWebApps.apiSubpath": "Api",
-    "staticWebApps.outputSubpath": "wwwroot"
+    "staticWebApps.outputSubpath": "wwwroot",
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net6.0/publish"
 }
