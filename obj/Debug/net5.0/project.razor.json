@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Jorge Darderes\\Desktop\\CursoCrud\\CursoCrud.csproj",
+  "FilePath": "c:\\Users\\JDARD\\OneDrive\\Escritorio\\CursoCrud\\CursoCrud.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -78,7 +78,7 @@
         }
       },
       {
-        "HashCode": 1284618947,
+        "HashCode": 1353863379,
         "Kind": "Components.Component",
         "Name": "CursoCrud.Pages.NuevoCliente",
         "AssemblyName": "CursoCrud",
@@ -88,13 +88,23 @@
             "TagName": "NuevoCliente"
           }
         ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "CursoCrud.Pages.NuevoCliente"
         }
       },
       {
-        "HashCode": 805371736,
+        "HashCode": 194863797,
         "Kind": "Components.Component",
         "Name": "CursoCrud.Pages.NuevoCliente",
         "AssemblyName": "CursoCrud",
@@ -102,6 +112,16 @@
         "TagMatchingRules": [
           {
             "TagName": "CursoCrud.Pages.NuevoCliente"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
           }
         ],
         "Metadata": {
@@ -140,6 +160,59 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "CursoCrud.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1006459301,
+        "Kind": "Components.Component",
+        "Name": "CursoCrud.Shared.SurveyPrompt",
+        "AssemblyName": "CursoCrud",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CursoCrud.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -1382034774,
+        "Kind": "Components.Component",
+        "Name": "CursoCrud.Shared.SurveyPrompt",
+        "AssemblyName": "CursoCrud",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CursoCrud.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CursoCrud.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -236,59 +309,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "CursoCrud.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1006459301,
-        "Kind": "Components.Component",
-        "Name": "CursoCrud.Shared.SurveyPrompt",
-        "AssemblyName": "CursoCrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CursoCrud.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -1382034774,
-        "Kind": "Components.Component",
-        "Name": "CursoCrud.Shared.SurveyPrompt",
-        "AssemblyName": "CursoCrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CursoCrud.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CursoCrud.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -15933,54 +15953,54 @@
   "RootNamespace": "CursoCrud",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Jorge Darderes\\Desktop\\CursoCrud\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "c:\\Users\\Jorge Darderes\\Desktop\\CursoCrud\\Pages\\NuevoCliente.razor",
-      "TargetPath": "Pages\\NuevoCliente.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Jorge Darderes\\Desktop\\CursoCrud\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Jorge Darderes\\Desktop\\CursoCrud\\Pages\\_Host.cshtml",
-      "TargetPath": "Pages\\_Host.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Jorge Darderes\\Desktop\\CursoCrud\\Pages\\ListaClientes.razor",
+      "FilePath": "c:\\Users\\JDARD\\OneDrive\\Escritorio\\CursoCrud\\Pages\\ListaClientes.razor",
       "TargetPath": "Pages\\ListaClientes.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Jorge Darderes\\Desktop\\CursoCrud\\App.razor",
+      "FilePath": "c:\\Users\\JDARD\\OneDrive\\Escritorio\\CursoCrud\\Pages\\_Host.cshtml",
+      "TargetPath": "Pages\\_Host.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\JDARD\\OneDrive\\Escritorio\\CursoCrud\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Jorge Darderes\\Desktop\\CursoCrud\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Jorge Darderes\\Desktop\\CursoCrud\\Shared\\NavMenu.razor",
+      "FilePath": "c:\\Users\\JDARD\\OneDrive\\Escritorio\\CursoCrud\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Jorge Darderes\\Desktop\\CursoCrud\\Shared\\MainLayout.razor",
+      "FilePath": "c:\\Users\\JDARD\\OneDrive\\Escritorio\\CursoCrud\\Pages\\NuevoCliente.razor",
+      "TargetPath": "Pages\\NuevoCliente.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\JDARD\\OneDrive\\Escritorio\\CursoCrud\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\JDARD\\OneDrive\\Escritorio\\CursoCrud\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\JDARD\\OneDrive\\Escritorio\\CursoCrud\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Jorge Darderes\\Desktop\\CursoCrud\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
+      "FilePath": "c:\\Users\\JDARD\\OneDrive\\Escritorio\\CursoCrud\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\JDARD\\OneDrive\\Escritorio\\CursoCrud\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
     }
   ],
   "SerializationFormat": "0.2"
